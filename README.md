@@ -1,2 +1,2 @@
-# x5-go-october-2026
+# x5-go-autumn-2026
 Practice repo for the X5 Semester Golang course.
